@@ -11,4 +11,6 @@ You can find the detailed information about the Challenge [on my blog](https://f
 
 In this repository you'll be able to propose new projects by creating an issue for each of them.
 
+Here is all project listing on [Codepen](https://codepen.io/FlorinPop17/full/VwYWMOa).
+
 Have fun! :innocent:
